@@ -7,4 +7,4 @@ This repository contains all of the notes taken by [Tombra](https://github.com/t
 
 ### Table Of Contents
 * Python Course
-    *Unit 1
+* Unit 1
